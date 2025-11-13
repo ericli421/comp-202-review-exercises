@@ -53,7 +53,7 @@ For this exercise, you will write three functions.
 
 You may assume the value `board` is a 2d list of size 9x9, and the value `n` is an integer between 0 and 8 (both inclusive)
 
-> Challenge: Implement the full sudoku board validator by also checking if a given box is valid.
+> If you want to challenge yourself, you can try implementing a full sudoku board validator by also checking if a given box is valid. This requires a bit of clever thinking, but is entirely possible to make with the concepts you currently have
 
 ## Question: Find substrings (Strings)
 
