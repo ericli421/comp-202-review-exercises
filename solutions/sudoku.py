@@ -129,6 +129,7 @@ def valid_sudoku(board):
     >>> valid_sudoku(board3)
     True
     """
+    # I hate docstrings
 
     for i in range(9):
         

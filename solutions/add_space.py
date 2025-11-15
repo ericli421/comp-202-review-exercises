@@ -31,5 +31,3 @@ def add_space(input_string: str):
         output_string += c
 
     return output_string
-
-import doctest; doctest.testmod(verbose=True)

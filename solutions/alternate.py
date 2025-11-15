@@ -1,5 +1,3 @@
-import doctest
-
 def alternate(s1,s2):
     """
     Takes as input two strings. It returns a string that 
@@ -28,6 +26,3 @@ def alternate(s1,s2):
         i+=1
     
     return output_str
-
-
-doctest.testmod(verbose=True)
